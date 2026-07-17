@@ -11,3 +11,7 @@ This document outlines the official design tokens and color palette variables fo
 | Accent (primary) | color-accent-main | #8B6F5C | |
 | Accent (hover/dark) | color-accent-hover | #5C4A3D | |
 | Border | color-border-soft | #D8D2CA | |
+
+## Fonts
+- Heading: Fraunces
+- Body: Inter
